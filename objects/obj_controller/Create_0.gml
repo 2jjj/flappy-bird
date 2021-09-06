@@ -4,3 +4,5 @@
 alarm[0] = room_speed;
 
 pontos = 0;
+
+global.level = 1;
