@@ -2,8 +2,6 @@
 // You can write your code in this editor
 
 
-show_debug_message("Rodei")
-
 //Bo criar a montanha de cima
 
 var montanha1_y = random_range(-160, 0);
