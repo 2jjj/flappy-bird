@@ -4,4 +4,13 @@
 //Ganhando os pontos
 pontos += 0.1
 
-show_debug_message(pontos)
+
+//Pegando level
+
+if(pontos > proximo_level){
+	global.level++;
+	
+	proximo_level *= 2;
+}
+
+show_debug_message(global.level)
