@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 
-image_index = global.level;
+image_index = global.level - 1;;
